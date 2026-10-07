@@ -1,0 +1,17 @@
+# Leftovers from building the .exe (the .exe goes in a GitHub Release instead)
+build/
+dist/
+*.spec
+
+# Python's temporary files
+__pycache__/
+*.pyc
+
+# Your own saved progress and feedback queue (personal, not part of the game)
+save_data.json
+pending_feedback.json
+player_id.txt
+
+# Old versions and duplicate downloads (not part of the game)
+old murdle/
+* (1).py
